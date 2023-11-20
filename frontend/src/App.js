@@ -9,7 +9,7 @@ const App = () => {
     <Header/>
     <main className="py-3">
       <Container>
-        <h1>Bine ai venit la Delgaz!2</h1>
+        <h1>Bine ai venit la Delgaz!</h1>
       </Container>
     </main>
     <Footer />
